@@ -1,0 +1,19 @@
+{
+  "name": "crud_api",
+  "version": "1.0.0",
+  "description": "\"Making First Crud Project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Paras Roy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "uuid": "^9.0.1"
+  }
+}
